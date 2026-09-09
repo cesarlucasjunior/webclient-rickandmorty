@@ -1,1 +1,1 @@
-rootProject.name = "webclientproject"
+rootProject.name = "webclient-rickandmorty"
